@@ -1,0 +1,32 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "sleek",
+  "font": "",
+  "title": "Revolutionize the Way You Buy Cars",
+  "subtitle": "Experience a New Level of Convenience and Simplicity with Our Innovative Car Buying Solution"
+}
